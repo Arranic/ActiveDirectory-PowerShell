@@ -1,6 +1,6 @@
 ﻿##### A1C Robert Griffn, 83 NOS - Directory Services
 ##### robert.griffin.23@us.af.mil
-##### DSN: 764-7663 or 574-7663
+
 
 $windowsId = [System.Security.Principal.WindowsIdentity]::GetCurrent()
 $windowsPrincipal = New-Object System.Security.Principal.WindowsPrincipal($windowsId)
